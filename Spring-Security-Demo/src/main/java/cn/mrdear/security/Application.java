@@ -3,10 +3,10 @@ package cn.mrdear.security;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * @author Niu Li
- * @since 2017/6/16
- */
+  
+ // @author Niu Li
+ // @since 2017/6/16
+ 
 @SpringBootApplication
 public class Application {
 
